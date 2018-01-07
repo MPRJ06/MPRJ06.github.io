@@ -4,11 +4,17 @@
   text-align: center;
 }
 
-.header {
+h1 {
   font-size: 50px;
   color: white;
   font-weight: bold;
   text-align: center;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
 }
 
 .subheader {
@@ -18,18 +24,13 @@
   text-decoration: underline;
 }
 
-.headertwo {
-  font-weight: 300;
-  font-size: 42px;
-  color: white;d
-}
-
 .subheadertwo {
   color: gray;
   font-size: 21px;
   font-weight: normal;
 }
 
-.img {
-  margin: auto;
+img {
+  text-align: center;
+  padding-top: 10px;
 }
