@@ -1,0 +1,23 @@
+* {
+  background-color: black;
+}
+
+.header {
+  font-family: Verdana, sans-serif;
+  font-size: 50px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+.subheader {
+  font-size: 16px;
+  color: aquamarine;
+  text-align: center;
+  font-family: Verdana, sans-serif;
+  text-decoration: underline;
+}
+
+.iphone {
+  margin: auto;
+}
